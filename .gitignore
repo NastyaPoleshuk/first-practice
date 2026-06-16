@@ -2,6 +2,7 @@
 *.out
 *.exe
 *.o
+solution
 build/
 CMakeLists.txt.user
 
